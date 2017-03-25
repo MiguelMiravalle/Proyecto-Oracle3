@@ -1,9 +1,20 @@
-## Welcome to GitHub Pages
+# <center>BASE DE DATOS 2</center>
+## <center>PROYECTO FINAL</center> 
+<p>Este proyecto, debe ser realizado debido a la necesidad de aprobar la materia</p>
 
-You can use the [editor on GitHub](https://github.com/MiguelMiravalle/Proyecto-Oracle3/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![Imagen1](http://www.cbronline.com/wp-content/uploads/2016/06/Java.png)
+
+ESQUEMAS DE AUTENTICACION TIPOS Y CUANTOS HAY 
+
+## METODOLOGIA USADA: SCRUM
+<!-- -->
+### ¿QUE ES SCRUM?
+Aqui descubriras que es SCRUM
+
+<center>You can use the [editor on GitHub](https://github.com/MiguelMiravalle/Proyecto-Oracle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+</center>
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -30,7 +41,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MiguelMiravalle/Proyecto-Oracle3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MiguelMiravalle/Proyecto-Oracle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
